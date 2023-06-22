@@ -1,0 +1,50 @@
+body {
+  background-color: #FFDAB9; 
+  font-family: "Times New Roman", Times, serif;
+  color: black;
+}
+
+header {
+  background-color: #FFEFD5; 
+  padding: 20px;
+  text-align: center;
+}
+
+
+h1 {
+  margin: 0;
+  text-align: center;
+}
+
+img {
+   display: block;
+   margin: 0 auto;
+   margin-top: 20px;
+}
+
+p {
+      text-align: center;
+	  font-size: 1.2rem;
+	  
+    }
+
+a {
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: #CD8535;
+      text-decoration: none;
+    }
+
+#description {
+  text-align: center;
+  margin: 20px;
+}
+
+footer {
+  background-color: #FFDAB9; 
+  padding: 10px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
